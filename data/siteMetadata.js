@@ -1,7 +1,7 @@
 const siteMetadata = {
-  title: "Asher's Anime Blog",
+  title: "Seen By Scenes Review",
   author: 'Asher Takayuki',
-  headerTitle: "Asher's Anime Blog",
+  headerTitle: "Seen By Scenes Review",
   description: 'Anime review, Top 10 lists, Character Matchups, and More',
   language: 'en-us',
   theme: 'system', // system, dark or light
