@@ -46,7 +46,7 @@ const siteMetadata = {
       repositoryId: process.env.NEXT_PUBLIC_GISCUS_REPOSITORY_ID,
       category: process.env.NEXT_PUBLIC_GISCUS_CATEGORY,
       categoryId: process.env.NEXT_PUBLIC_GISCUS_CATEGORY_ID,
-      mapping: 'pathname', // supported options: pathname, url, title
+      mapping: 'url', // supported options: pathname, url, title
       reactions: '1', // Emoji reactions: 1 = enable / 0 = disable
       // Send discussion metadata periodically to the parent window: 1 = enable / 0 = disable
       metadata: '0',
@@ -54,7 +54,7 @@ const siteMetadata = {
       // transparent_dark, preferred_color_scheme, custom
       theme: 'light',
       // Place the comment box above the comments. options: bottom, top
-      inputPosition: 'bottom',
+      inputPosition: 'top',
       // Choose the language giscus will be displayed in. options: en, es, zh-CN, zh-TW, ko, ja etc
       lang: 'en',
       // theme when dark mode
