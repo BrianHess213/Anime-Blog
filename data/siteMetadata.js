@@ -10,7 +10,7 @@ const siteMetadata = {
   siteLogo: '/static/images/AsherLogo.png',
   image: '/static/images/AsherLogo.png',
   socialBanner: '/static/images/twitter-card.png',
-  // email: 'TakayukiAsher@gmail.com',
+  //email: 'TakayukiAsher@gmail.com',
   // github: 'https://github.com',
   twitter: 'https://twitter.com/AsherTakayuki',
   // facebook: 'https://facebook.com',
